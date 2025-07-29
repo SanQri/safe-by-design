@@ -65,3 +65,5 @@ Augmented Reality Engineer, Snap Inc.
 ---
 
 > _“Architecture is not about where you put the controller. It’s about what the compiler refuses to let you do wrong.”_
+
+The opinions in this post are my own and not attributable to or on behalf of my employer
