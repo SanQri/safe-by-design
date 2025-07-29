@@ -1,6 +1,6 @@
 # 🛡️ Safe by Design
 ## Explorations in Software Architecture and Expressiveness
-
+<img src="cover.png" alt="Обложка книги" width="300"/>
 
 **A free technical book about using type systems, compile-time validation, and architectural design to write software that stays correct as it grows.**
 
